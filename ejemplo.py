@@ -1,2 +1,3 @@
 print("\nHello World\n")
-print("Prueba exitosa\n")
+print(3*5)
+print("\nPrueba exitosa\n")
